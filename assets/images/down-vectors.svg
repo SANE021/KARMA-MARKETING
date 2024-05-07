@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="557.89" height="348.976" viewBox="0 0 557.89 348.976">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8d486"/>
+      <stop offset="1" stop-color="#fecc5e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_15" data-name="Group 15" transform="translate(0 0)">
+    <g id="Group_31943" data-name="Group 31943">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M70.456,348.977a70.477,70.477,0,0,1-56.25-112.932L192.077,0H368.628L126.814,320.9a70.824,70.824,0,0,1-11.646,12.145,70.284,70.284,0,0,1-28.836,14.131A71.008,71.008,0,0,1,70.456,348.977Z" transform="translate(557.89 348.977) rotate(180)" opacity="0.73" fill="url(#linear-gradient)"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M70.456,307.772A70.477,70.477,0,0,1,14.206,194.84L161.029,0H337.58L126.814,279.7a70.52,70.52,0,0,1-56.357,28.076Z" transform="translate(393.89 348.975) rotate(180)" opacity="0.73" fill="url(#linear-gradient)"/>
+      <path id="Subtraction_4" data-name="Subtraction 4" d="M70.457,247.773a70.476,70.476,0,0,1-56.25-112.932L115.816,0h99.732V101.943L126.814,219.7a70.52,70.52,0,0,1-56.357,28.076Z" transform="translate(215.547 348.976) rotate(180)" opacity="0.73" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
